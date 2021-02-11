@@ -1,1 +1,1 @@
-Swift code is safe by design, yet also produces software that runs lightning-fast.
+Swift code is safe by design, yet also produces software that s
